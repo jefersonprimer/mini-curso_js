@@ -1,0 +1,1 @@
+console.log("Este é o script dentro do body, com js!");
